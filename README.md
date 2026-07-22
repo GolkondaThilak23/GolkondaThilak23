@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="\Users\DELL7310\Downloads\Brown Wood Minimalist Profile LinkedIn Banner.png"?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Thilak%20S&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=Aspiring%20Software%20Developer%20%7C%20Java%20%7C%20SQL%20%7C%20Web Development&descAlignY=60&descColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="C:\Users\DELL7310\Desktop\html\thilak.html?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Thilak%20S&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=Aspiring%20Software%20Developer%20%7C%20Java%20%7C%20SQL%20%7C%20Web Development&descAlignY=60&descColor=ffffff&animation=fadeIn"/>
 
 <br/>
 
