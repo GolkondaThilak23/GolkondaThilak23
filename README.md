@@ -17,7 +17,7 @@
 🎯 **Aspiring Software Developer** focused on **Software Development**
 
 - 🔍 Passionate about Programming in Java 
-- 🤖 Building web-developed software with **Java & AI**
+- 🤖 Building web-developed software with **Java & SQL**
 - 📊 Love creating Web Applications that tell compelling data sets
 - 🧠 Skilled in **Java**, **SQL**, **Web Development**, and **Backend Deployment**
 - 🌱 Currently sharpening skills in **Advanced Java** and **Frameworks**
