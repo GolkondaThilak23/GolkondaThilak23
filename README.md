@@ -1,4 +1,4 @@
-<h1 align="center">Hello Guys! We Are OSSInsight! 👁️</h1>
+<h1 align="center">Hello Guys! I am GOLKONDA THILAK! 👁️</h1>
 
 <div align="center">
 <a href="https://ossinsight.io">
@@ -7,9 +7,9 @@
 </div>
 
 <h4 align="center">
-  <b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
+  <b><a href="https://ossinsight.io/explore/">Java Developer</a></b>
   •
-  <b><a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a></b>
+  <b><a href="https://ossinsight.io/collections/open-source-database"></a></b>
   •
   <b><a href="https://ossinsight.io/analyze/Ovilia">Developer Analytics</a></b>
   •
