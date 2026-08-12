@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer%F0%9F%93%8A;Software+%26+Web+Developer+%F0%9F%92%B9;+%7C+SQL+%7C+Java+%7C+SQL;Turning+Programming+into+Web+Development+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer%F0%9F%93%8A;Software+%26+Web+Developer+%F0%9F%92%B9;+%7C+SQL+%7C+Java;Turning+Programming+into+Web+Development+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
